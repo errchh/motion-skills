@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "motion": {
+      "source": "errchh/motion-skills",
+      "sourceType": "github",
+      "computedHash": "1403ab9a0415f65d18bec0c4c23d15407f48e7ac363863365dd44912e35c399f"
+    },
     "motion-agent": {
       "source": "errchh/motion-skills",
       "sourceType": "github",
