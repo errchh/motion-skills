@@ -1,5 +1,5 @@
 ---
-name: motion-agent
+name: motion
 description: A template-based agent for generating Motion (React) code snippets and solutions. Use this skill when you need to create animations, handle gestures, set up Motion in React applications, or implement advanced Motion features.
 ---
 

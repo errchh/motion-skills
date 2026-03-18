@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "motion-agent": {
+      "source": "errchh/motion-skills",
+      "sourceType": "github",
+      "computedHash": "e0a4b86a333b335658a1b0ba8f9b466b758d4aa254c032ebaaa7fe5841a29e59"
+    },
     "skill-creator": {
       "source": "anthropics/skills",
       "sourceType": "github",
